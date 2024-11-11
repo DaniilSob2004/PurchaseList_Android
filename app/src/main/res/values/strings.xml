@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Purchase List</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_text">Изменить</string>
+    <string name="delete_text">Удалить</string>
+    <string name="dialog_add_list_title">Добавление списка</string>
+    <string name="dialog_ok">Ок</string>
+    <string name="dialog_no">Отмена</string>
+    <string name="add_list_text_message">Вы успешно создали новый список</string>
+</resources>
