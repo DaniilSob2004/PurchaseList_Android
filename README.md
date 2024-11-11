@@ -1,1 +1,5 @@
-# PurchaseList_Android
+  - ![1](https://github.com/user-attachments/assets/f40b522f-be9e-449d-b981-d9fc2b7ae0fe)
+  - ![2](https://github.com/user-attachments/assets/46f349a7-855b-41a7-a98f-ad522d33d743)
+  - ![3](https://github.com/user-attachments/assets/763b1553-e202-4a29-9ebb-28b86ed88dd7)
+  - ![4](https://github.com/user-attachments/assets/a45b4987-c605-4bb7-b26c-88c12f1323bc)
+  - ![5](https://github.com/user-attachments/assets/c36668ce-c0ba-4d66-885a-59de3d0fbe18)
